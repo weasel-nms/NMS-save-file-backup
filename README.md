@@ -12,7 +12,7 @@ This tool is composed of two simple parts:
 To "install" it, if it can be called that, just download the ZIP file and open it.  Copy the `NMSbackup.ps1` file to your Documents folder, and copy the `No Man's Sky save file backup` shortcut to your Desktop (or wherever you want to keep it.)  Double-click the shortcut to run it.
 
 ### Download
-* [GitHub](https://github.com/weasel-nms/NMS-save-file-backup/releases/download/v1.0/NoMansSkySaveFileBackupv1.0.zip) (NoMansSkySaveFileBackupv1.0.zip)
+* [GitHub](https://github.com/weasel-nms/NMS-save-file-backup/releases/download/v1.0/NoMansSkySaveFileBackupV1.0.zip) (NoMansSkySaveFileBackupv1.0.zip)
 
 ### Contact
 Feel free to contact me at the NMS Modding discord at https://discord.gg/5ercjgdy using `@weasel`.
