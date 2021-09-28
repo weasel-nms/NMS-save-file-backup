@@ -1,6 +1,6 @@
-# NMS Save File Backup
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 
+# NMS Save File Backup
 Backs up No Man's Sky save files and settings files to ZIP for safekeeping.
 
 ### How it works
