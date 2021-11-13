@@ -5,7 +5,7 @@ Backs up No Man's Sky save files and settings files to ZIP for safekeeping.
 
 ### How it works
 This tool is composed of two simple parts:
-1. A PowerShell script, which determines your save files' location, and then archives them into a ZIP files named with a timestamp, in the `Documents\My Games\No Man's Sky Backups` folder
+1. A PowerShell script, which determines your save files' location, and then archives them into a ZIP file named with a timestamp, in the `Documents\My Games\No Man's Sky Backups` folder
 2. A clickable shortcut, intended to reside on your Desktop, but certainly locatable anywhere you choose.
 
 ### Instructions
